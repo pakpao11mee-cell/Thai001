@@ -1,0 +1,6 @@
+{
+  "name": "ระบบเช็คชื่อเข้าชั้นเรียน",
+  "description": "ระบบบันทึกและเช็คชื่อเข้าเรียนแบบเรียลไทม์ผ่าน Firebase พร้อมระบบแอดมินและการเข้าสู่ระบบด้วย Google",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
